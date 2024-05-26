@@ -1,0 +1,46 @@
+img {
+  max-width:100%;
+  display:block;
+  margin:0 auto;
+}
+   
+h1 {
+  text-align: center;
+  padding:10px ;
+}
+   
+#img-div {
+  text-align: center;
+  background-color: aliceblue;
+  padding: 10px;
+  padding-bottom: 20px;
+}
+   
+.b1 {
+  text-align: center;
+}
+  
+#description {
+  margin-left: 280px;
+  margin-right: 280px;
+  margin-top: 50px;
+}
+   
+body {
+  text-align: left;
+  background-color: gray;
+}
+   
+#tribute-info {
+  text-align: center;
+  padding-bottom: 20px;
+}
+   
+#ul-1 {
+  margin:20px;
+  font-size:20px ;
+}
+   
+.bold {
+  font-size:20px;
+}
